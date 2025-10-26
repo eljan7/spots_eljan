@@ -47,7 +47,7 @@ The project is deployed via GitHub Pages:
 👉 View Live Project Here: https://eljan7.github.io/spots_eljan/
 
 
-🎥 Project Pitch Video - 
+🎥 Project Pitch Video - https://drive.google.com/file/d/1_zoYzMLYHC9xLwosFV-tkWXSTBzIAfbV/view?usp=drive_link
 
 
 
