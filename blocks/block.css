@@ -1,0 +1,5 @@
+.block {
+  text-overflow: ellipsis;  /* adds “…” when text is too long */
+  white-space: nowrap;      /* keeps text on a single line */
+  overflow: hidden;         /* hides any content beyond container width */
+}

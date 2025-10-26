@@ -1,0 +1,9 @@
+/* Keep content from touching viewport sides */
+.content {
+  padding-left: 20px;
+  padding-right: 20px;
+}
+/* Stable box model */
+*, *::before, *::after {
+  box-sizing: border-box;
+}
