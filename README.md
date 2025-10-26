@@ -46,26 +46,6 @@ Mobile (≤630px)	1 card per row, stacked profile and buttons, centered text
 The project is deployed via GitHub Pages:
 👉 View Live Project Here: https://eljan7.github.io/spots_eljan/
 
-🧩 Project Structure - 
-se_project_spots/
-│
-├── blocks/               # BEM CSS blocks
-│   ├── page.css
-│   ├── profile.css
-│   ├── card.css
-│   ├── cards.css
-│   ├── content.css
-│   ├── footer.css
-│   └── ...
-│
-├── images/               # Project images
-│
-├── pages/
-│   └── index.css         # Imports all block styles
-│
-├── index.html            # Main project file
-└── README.md             # You’re here
-
 
 🎥 Project Pitch Video - 
 
